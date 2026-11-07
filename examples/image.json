@@ -1,0 +1,27 @@
+{
+  "cropId": "paper-campaign",
+  "title": "Paper shapes practice crops",
+  "image": {
+    "id": "paper-shapes-v1",
+    "label": "Paper shapes on a desk",
+    "width": 1200,
+    "height": 800
+  },
+  "targets": [
+    {
+      "id": "square",
+      "p": 1,
+      "q": 1
+    },
+    {
+      "id": "portrait",
+      "p": 4,
+      "q": 5
+    },
+    {
+      "id": "wide",
+      "p": 16,
+      "q": 9
+    }
+  ]
+}
